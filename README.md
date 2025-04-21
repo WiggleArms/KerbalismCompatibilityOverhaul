@@ -1,11 +1,12 @@
-### Kerbalism Compatibility Overhaul
+# Kerbalism Compatibility Overhaul
 
 **Made by Wigglearms, with a patch by jessicest**
-*Thanks to all the amazing people who have helped develop Kerbalism and to jessicest for a SSPXr patch!*
+
+*Thanks to all the amazing people who have helped develop Kerbalism and to jessicest for a SSPX patch!*
 
 *Kerbalism Compatibility Overhaul (KCO)* is a modular patch suite for Kerbal Space Program that expands and enhances Kerbalism's realism, while integrating it more smoothly with other popular mods.
 
-#### Patches and Compatibility:
+## Patches and Compatibility:
 
 **Default Kerbalism**:
 - Completely overhauls/provides the default resource distributions, including Ore. Feedback on balancing is welcome!
@@ -23,6 +24,7 @@
 - Converts the Antimatter Facility and Nuclear Smelter to use Kerbalism processes.
 
 **Near Future Electrical**:
+
 Kerbalism's original support for this mod is outdated - this includes patches to support renamed parts. Changes include:
 - Re-adds radiation emitters to Fission Reactors and RTGs.
 - Restores the Nuclear Reprocessor to full functionality including Kerbalism processes
@@ -48,12 +50,17 @@ Kerbalism's original support for this mod is outdated - this includes patches to
 ## Current Version: v1.0.0
 
 **Download**: **[GitHub]** - **[CKAN]** - **[SpaceDock]**
-**KSP Version**: **Tested only on 1.12.5** in a heavily modded save (That's probably bad, I know)
-**Dependencies**: **Requires [Kerbalism] and its dependencies**
+
+**KSP Version**: *Tested only on 1.12.5* in a heavily modded save (That's probably bad, I know)
+
+**Dependencies**: Requires **[Kerbalism]** and its dependencies
+
 **Support**: **[Discord]** - **[FAQ]** - **[GitHub Issues]** - **[KSP Forums]**
+
 **License**: **[Unlicense]** (public domain)
 
 **Future Plans**:
+
 Resource distributions/Harvesting to Asteroids and Comets
 No other plans the moment, unless I can figure out how to fix the cryotank planners or cause Kerbalism processes to produce heat for SystemHeat.
 
@@ -69,4 +76,13 @@ All patches are sorted into folders by mod, so if you aren't using one or more o
 
 ## Disclaimer and license
 
-This mod is released under the [Unlicense], which means it's in the public domain. *Although I wouldn't mind being credited in derivative works :)*
+This mod is released under the [Unlicense], which means it's in the public domain. *Although I wouldn't mind being credited in any derivative works :)*
+
+
+[GitHub]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/releases
+[GitHub Issues]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues
+
+[Kerbalism]: https://github.com/Kerbalism/Kerbalism/releases
+[FAQ]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/FAQ
+
+[Unlicense]: https://github.com/Kerbalism/Kerbalism/blob/master/LICENSE
