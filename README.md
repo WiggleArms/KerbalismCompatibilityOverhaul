@@ -80,9 +80,17 @@ This mod is released under the [Unlicense], which means it's in the public domai
 
 
 [GitHub]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/releases
-[GitHub Issues]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues
+[CKAN]
+[SpaceDock]
 
 [Kerbalism]: https://github.com/Kerbalism/Kerbalism/releases
+
+[Discord]
+[KSP Forums]
+[GitHub Issues]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues
 [FAQ]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/FAQ
 
 [Unlicense]: https://github.com/Kerbalism/Kerbalism/blob/master/LICENSE
+
+[CompatibilityPatchesPlus]
+[SSPXHatchConnector]
