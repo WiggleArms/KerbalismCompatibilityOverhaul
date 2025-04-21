@@ -59,6 +59,7 @@ Kerbalism's original support for this mod is outdated - this includes patches to
 
 **License**: **[Unlicense]** (public domain)
 
+
 **Future Plans**:
 - Resource distributions/Harvesting to Asteroids and Comets
 - No other plans the moment, unless I can figure out how to fix the cryotank planners or cause Kerbalism processes to  produce heat for SystemHeat.
@@ -79,17 +80,17 @@ This mod is released under the [Unlicense], which means it's in the public domai
 
 
 [GitHub]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/releases
-[CKAN]:
-[SpaceDock]:
+[CKAN]: data:<a href="data:text/html,Coming Soon
+[SpaceDock]: data:<a href="data:text/html,Coming Soon
 
 [Kerbalism]: https://github.com/Kerbalism/Kerbalism/releases
 
-[Discord]:
-[KSP Forums]:
+[Discord]: data:<a href="data:text/html,Coming Soon
+[KSP Forums]: data:<a href="data:text/html,Coming Soon
 [GitHub Issues]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues
 [FAQ]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/FAQ
 
 [Unlicense]: https://github.com/Kerbalism/Kerbalism/blob/master/LICENSE
 
-[CompatibilityPatchesPlus]:
-[SSPXHatchConnector]:
+[CompatibilityPatchesPlus]: data:<a href="data:text/html,Coming Soon
+[SSPXHatchConnector]: data:<a href="data:text/html,Coming Soon
