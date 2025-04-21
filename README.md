@@ -1,10 +1,10 @@
 # Kerbalism Compatibility Overhaul
 
-**Made by Wigglearms, with a patch by jessicest**
+**Made by WiggleArms, with a patch by jessicest**
 
 *Thanks to all the amazing people who have helped develop Kerbalism and to jessicest for a SSPX patch!*
 
-*Kerbalism Compatibility Overhaul (KCO)* is a modular patch suite for Kerbal Space Program that expands and enhances Kerbalism's realism, while integrating it more smoothly with other popular mods.
+**Kerbalism Compatibility Overhaul (KCO)** is a modular patch suite for Kerbal Space Program that expands and enhances Kerbalism's realism, while integrating it more smoothly with other popular mods.
 
 ## Patches and Compatibility:
 
@@ -51,7 +51,7 @@ Kerbalism's original support for this mod is outdated - this includes patches to
 
 **Download**: **[GitHub]** - **[CKAN]** - **[SpaceDock]**
 
-**KSP Version**: *Tested only on 1.12.5* in a heavily modded save (That's probably bad, I know)
+**KSP Version**: 1.12.5 - This is the only version I've tested on, in a heavily modded save (That's probably bad, I know)
 
 **Dependencies**: Requires **[Kerbalism]** and its dependencies
 
