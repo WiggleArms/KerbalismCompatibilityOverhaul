@@ -80,17 +80,17 @@ This mod is released under the [Unlicense], which means it's in the public domai
 
 
 [GitHub]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/releases
-[CKAN]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/Coming-Soon
-[SpaceDock]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/Coming-Soon
+[CKAN]: https://forum.kerbalspaceprogram.com/index.php?/topic/197082-ckan
+[SpaceDock]: https://spacedock.info/mod/3869/Kerbalism%20Compatibility%20Overhaul
 
 [Kerbalism]: https://github.com/Kerbalism/Kerbalism/releases
 
 [Discord]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/Coming-Soon
-[KSP Forums]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/Coming-Soon
+[KSP Forums]: https://forum.kerbalspaceprogram.com/topic/227725-1125-kerbalism-compatibility-overhaul/
 [GitHub Issues]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/issues
 [FAQ]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/FAQ
 
-[Unlicense]: https://github.com/Kerbalism/Kerbalism/blob/master/LICENSE
+[Unlicense]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/blob/v1.0.0/LICENSE
 
 [CompatibilityPatchesPlus]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/Coming-Soon
 [SSPXHatchConnector]: https://github.com/WiggleArms/KerbalismCompatibilityOverhaul/wiki/Coming-Soon
